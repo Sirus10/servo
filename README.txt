@@ -11,3 +11,8 @@ https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
 
 
 If you need to update the pin number you can addapt the echo command in the action.php file. 
+
+
+More detail : 
+http://domotique.web2diz.net/?p=468  [FR]
+http://domoticz.web2diz.net/?p=468   [EN]
